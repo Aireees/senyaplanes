@@ -1,0 +1,98 @@
+.request_container{
+    padding: 5.5vw 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.request_box{
+    width: 60%;
+    border-radius: 8px;
+    background: rgba(75, 169, 235, 0.75);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3vw;
+}
+.request_box h2{
+    margin-bottom: 1vw;
+}
+.request_box h4{
+    margin: 1vw 0 0.5vw 0;
+}
+.request_box > input{
+    border-radius: 0.25vw;
+    padding: 0.2vw 0.5vw 0.2vw 1vw;
+    width: 30vw;
+    color: #0B435E;
+    font-size: 1.1vw;
+    font-weight: bold;
+    border: none;
+    transition: 0.1s;
+}
+.request_box > input:focus{
+    outline: none;
+    box-shadow: inset 0px 0px 6px 2px rgba(75, 169, 235, 0.9);
+}
+.choice_flight_row{
+    width: 30vw;
+    margin: 0.5vw 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.choice_flight_button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s;
+}
+.choice_flight_button:hover{
+    background: rgba(75, 169, 235, 0.45);
+}
+.choice_flight_button label{
+    width: 13.5vw;
+    padding: 0.5vw 0;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.1vw;
+    border-radius: 0.25vw;
+    border: 0.1vw solid rgba(75, 169, 235, 0.9);
+    cursor: pointer;
+    transition: 0.5s;
+}
+.choice_flight_button > input[type=radio]{
+    display: none;
+}
+.choice_flight_button > input[type=radio]:checked + label{
+    background: rgba(75, 169, 235, 0.9);
+}
+.request_box select{
+    width: 12vw;
+    text-align: center;
+    border-radius: 0.25vw;
+    color: #0B435E;
+    font-size: 1.1vw;
+}
+.request_box select:focus{
+    outline: none;
+}
+.request_box option{
+    border-radius: 0.25vw;
+}
+.request_button{
+    background: #D9D9D9;
+    color: #323232;
+    text-align: center;
+    padding: 0.75vw 3vw;
+    border-radius: 0.25vw;
+    margin-top: 3vw;
+    text-transform: uppercase;
+    font-size: 1.1vw;
+    transition: 0.5s;
+}
+.request_button:hover{
+    cursor: pointer;
+    background: rgba(75, 169, 235, 0.9);
+    color: #FFFFFF;
+}

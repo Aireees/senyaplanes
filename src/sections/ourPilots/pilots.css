@@ -1,0 +1,32 @@
+.our_pilots_container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 5.5vw;
+}
+.our_pilots_container h4{
+    margin: 1vw 0;
+}
+.pilots_photos_box{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.pilot_card{
+    margin: 1.5vw 2vw;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pilot_card img{
+    width: 22.5vw;
+    margin-bottom: 1vw;
+}
+.pilot_card p{
+    font-size: 1.2vw;
+    text-transform: uppercase;
+}

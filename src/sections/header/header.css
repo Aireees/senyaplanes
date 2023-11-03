@@ -1,0 +1,22 @@
+.header_container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    transition: 0.5s;
+    z-index: 1000;
+}
+.nav_buttons_container{
+    display: flex;
+    background: rgba(82, 163, 213, 0.8);
+    border-radius: 0 0 2vw 2vw;
+    overflow: hidden;
+}
+.nav_button{
+    font-size: 1.3vw;
+    padding: 1.5vw 2vw;
+}
+.nav_button:hover{
+    background: rgba(82, 163, 213, 1);
+
+}

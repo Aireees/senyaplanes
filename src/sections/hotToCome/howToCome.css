@@ -1,0 +1,31 @@
+.how_to_come_container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 5.5vw;
+}
+.how_to_come_content{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.how_to_come_text_box{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.how_to_come_text{
+    padding: 2vw 0;
+}
+.how_to_come_text h3{
+    text-transform: uppercase;
+    font-size: 2vw;
+    margin-bottom: 1vw;
+}
+.how_to_come_text p{
+    font-size: 1.2vw;
+}
+.how_to_come_content img{
+    width: 35%;
+}

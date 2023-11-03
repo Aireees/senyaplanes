@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/senyaplanes/static/css/main.38c15677.css",
+    "main.js": "/senyaplanes/static/js/main.abbe69ac.js",
+    "static/js/787.2a559f13.chunk.js": "/senyaplanes/static/js/787.2a559f13.chunk.js",
+    "static/media/mainBG.png": "/senyaplanes/static/media/mainBG.fad47ab087aa58f17883.png",
+    "static/media/image 7.png": "/senyaplanes/static/media/image 7.6dfb9a3fab0fb2abe177.png",
+    "static/media/Rectangle 11.png": "/senyaplanes/static/media/Rectangle 11.d3333b8e186e5c6da015.png",
+    "static/media/Group 1.png": "/senyaplanes/static/media/Group 1.401809aef1761c91e3f9.png",
+    "static/media/Rectangle 7.png": "/senyaplanes/static/media/Rectangle 7.1db3a17eea2ed04f08fe.png",
+    "static/media/Rectangle 13.png": "/senyaplanes/static/media/Rectangle 13.5f874aea0e115d1e4418.png",
+    "static/media/Group 3.png": "/senyaplanes/static/media/Group 3.736dd461dd9f0e8727de.png",
+    "static/media/Rectangle 5.png": "/senyaplanes/static/media/Rectangle 5.699fdcf2edfe7c78b82d.png",
+    "static/media/Group 2.png": "/senyaplanes/static/media/Group 2.a359a1e0eea381a0c43b.png",
+    "static/media/image 1.png": "/senyaplanes/static/media/image 1.ba8370fe5a969b29412e.png",
+    "static/media/Rectangle 6.png": "/senyaplanes/static/media/Rectangle 6.b891a39af1e684ed2c8e.png",
+    "static/media/image 3.png": "/senyaplanes/static/media/image 3.c1493d837fa82366c65d.png",
+    "static/media/RobotoCondensed-Regular.ttf": "/senyaplanes/static/media/RobotoCondensed-Regular.fc3d2f2e3a203d0037c1.ttf",
+    "static/media/RobotoCondensed-Bold.ttf": "/senyaplanes/static/media/RobotoCondensed-Bold.c5fe6deebafaec078e64.ttf",
+    "static/media/image 2.png": "/senyaplanes/static/media/image 2.e8962fad3fec08e6312f.png",
+    "static/media/image 5.png": "/senyaplanes/static/media/image 5.670be98bc20e44645a9c.png",
+    "static/media/image 4.png": "/senyaplanes/static/media/image 4.dc07de191c8859d93fc9.png",
+    "static/media/Rectangle 14.2.png": "/senyaplanes/static/media/Rectangle 14.2.f9fb47cc3da53b247db3.png",
+    "static/media/Rectangle 14.1.png": "/senyaplanes/static/media/Rectangle 14.1.9906781aacb7a964d9c2.png",
+    "static/media/Rectangle 14.3.png": "/senyaplanes/static/media/Rectangle 14.3.fa40fe2f38741c8e8299.png",
+    "static/media/image 18.png": "/senyaplanes/static/media/image 18.00ecdcf26466ac09975d.png",
+    "index.html": "/senyaplanes/index.html",
+    "main.38c15677.css.map": "/senyaplanes/static/css/main.38c15677.css.map",
+    "main.abbe69ac.js.map": "/senyaplanes/static/js/main.abbe69ac.js.map",
+    "787.2a559f13.chunk.js.map": "/senyaplanes/static/js/787.2a559f13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38c15677.css",
+    "static/js/main.abbe69ac.js"
+  ]
+}
